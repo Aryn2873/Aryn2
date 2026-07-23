@@ -16,7 +16,7 @@ Developer • Cybersecurity • Blue Belt BJJ • MMA
 
 ```bash
 Name      :: Aryn
-Location  :: Malaysia
+Location  :: ???
 Focus      :: Software Development
 Learning  :: Cybersecurity
 Martial   :: Blue Belt BJJ • MMA
